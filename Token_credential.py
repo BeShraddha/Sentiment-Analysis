@@ -5,7 +5,7 @@ Created on Tue Jan 28 22:42:53 2020
 @author: Shraddha
 """
 
-ACCESS_TOKEN = "893546135721189376-uefStD9Yfs1KvGNPmqlepGEJGoUUTbp"
-ACCESS_TOKEN_SECRET = "o0ZfHgpOJGQiDEJmOuQJmuBuxvLoCUa8jEpBZGGkmMDBJ"
-CONSUMER_KEY = "miF6KwyhTuMjQhytnAyYRN6Kb"
-CONSUMER_KEY_SECRET = "Izub8Nrm7ncCkzVQ9IhXbRmboJy2AMoJa3MbRQyMmkODz4EKie"
+ACCESS_TOKEN = **************
+ACCESS_TOKEN_SECRET = **************
+CONSUMER_KEY = **************
+CONSUMER_KEY_SECRET = **************
